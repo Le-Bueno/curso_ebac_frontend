@@ -1,0 +1,48 @@
+body {
+    padding: 80px;
+}
+
+
+
+
+
+.container {
+    display: flexbox;
+    overflow: hidden;
+}
+
+
+
+
+.container h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+.container p {
+    font-size: 1.2em;
+    color: #555;
+}
+
+
+.row {
+    margin-top: 20px;
+}
+
+.post {
+    margin-bottom: 20px;
+}
+
+
+
+.post h4 {
+    margin-top: 10px;
+}
+
+.post time {
+    color: #777;
+}
+
+.post a.btn {
+    margin-top: 10px;
+}
